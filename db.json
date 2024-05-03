@@ -1,0 +1,22 @@
+{
+    "pets": [
+      {
+        "id": 1,
+        "photo_url": "https://placekitten.com/200/300",
+        "name": "Fido",
+        "breed": "Labrador",
+        "gender": "Male",
+        "age": "Young",
+        "adoption_date": "2022-10-04"
+      },
+      {
+        "id": 2,
+        "photo_url": "https://placekitten.com/200/300",
+        "name": "Whiskers",
+        "breed": "Siamese",
+        "gender": "Female",
+        "age": "Adult",
+        "adoption_date": "2021-12-11"
+      }
+    ]
+  }
